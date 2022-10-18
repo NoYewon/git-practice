@@ -1,2 +1,0 @@
-NoYewon
-# git-practice
